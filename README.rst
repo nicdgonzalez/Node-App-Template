@@ -13,17 +13,11 @@ scalable, yet intuitive to read and browse through clean code.
 
 This is a template for NodeJS projects. It includes:
 
-+-------------------+----------------+
-| Project Structure | NodeJS         |
-+-------------------+----------------+
-| Web Framework     | ExpressJS      |
-+-------------------+----------------+
-| Template Engine   | EJS            |
-+-------------------+----------------+
-| CSS preprocessor  | Sass           |
-+-------------------+----------------+
-| Language          | TypeScript     |
-+-------------------+----------------+
+- **NodeJS** for the project structure.
+- **ExpressJS** for the web framework.
+- **EJS** for the template engine.
+- **Sass** as a CSS preprocessor.
+- **TypeScript** for the language.
 
 
 Technologies Used
@@ -89,7 +83,7 @@ Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
 
-- `Fork <>`_ the repository and create a new branch.
+- `Fork <https://github.com/nicdgonzalez/Node-App-Template/fork>`_ the repository and create a new branch.
 
 .. code:: console
 
