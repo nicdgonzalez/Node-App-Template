@@ -79,7 +79,7 @@ Bug/Feature Request
 
 If you find a bug (program failed to run and/or gave undesired results)
 or you just want to request a feature, kindly open a new issue
-`here <>`_.
+`here <https://github.com/nicdgonzalez/Node-App-Template/issues>`_.
 
 
 Contributing
@@ -115,4 +115,4 @@ To fix a bug or enhance an existing module, follow these steps:
 
   $ git push "origin" "improve-feature"
 
-- Create a `Pull Request <>`_.
+- Create a `Pull Request <https://github.com/nicdgonzalez/Node-App-Template/pulls>`_.
