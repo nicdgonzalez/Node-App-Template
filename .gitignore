@@ -1,0 +1,8 @@
+# Specify path patterns for Git to ignore in intentionally untracked
+# files (e.g., secret files, temporary files, etc.).
+
+# NodeJS
+node_modules/*
+
+# TypeScript
+built/*
